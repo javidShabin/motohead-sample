@@ -67,7 +67,7 @@ const Home = () => {
               <img
                 src={bike}
                 alt="Bike"
-                className="w-40 md:w-56 lg:w-[550px] xl:w-[700px] hover:scale-105 transition-transform duration-300"
+                className="w-60 md:w-56 lg:w-[550px] xl:w-[700px] hover:scale-105 transition-transform duration-300"
               />
             </div>
             <h1 className="text-2xl md:text-4xl lg:text-[56px] xl:text-[70px] font-bold leading-tight text-[#ffffff30] absolute bottom-8 lg:bottom-12 right-4 lg:right-12">
