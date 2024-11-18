@@ -80,7 +80,7 @@ const Header = () => {
         <div className="hidden md:block">
           <a
             href="#"
-            className="bg-[#ffff] text-[#000] py-2 px-4 rounded-md font-medium hover:bg-[#000] hover:text-[#fff] transition duration-300"
+            className="bg-[#ffffffb2] text-[#000] py-2 px-4 rounded-md font-medium hover:bg-[#000] hover:text-[#fff] transition duration-300"
           >
             Join Us
           </a>
