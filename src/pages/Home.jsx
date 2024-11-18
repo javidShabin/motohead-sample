@@ -9,11 +9,10 @@ const Home = () => {
   return (
     <div className="w-screen h-screen">
       <Swiper
-        modules={[Pagination, Scrollbar, A11y, Autoplay]}
+        modules={[Pagination, A11y, Autoplay]}
         spaceBetween={0}
         slidesPerView={1}
         pagination={{ clickable: true }}
-        scrollbar={{ draggable: true }}
         autoplay={{
           delay: 3000,
           disableOnInteraction: false,
